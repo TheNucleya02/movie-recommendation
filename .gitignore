@@ -21,8 +21,7 @@ env/
 # ---- Jupyter / Notebook ----
 .ipynb_checkpoints/
 
-# ---- Data / Artifacts ----
-models/
+# ---- Data / Artifacts ---
 *.csv
 *.json
 *.db
