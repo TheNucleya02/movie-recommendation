@@ -1,0 +1,37 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.log
+.DS_Store
+
+# ---- Environments ----
+.env
+.venv/
+venv/
+env/
+*.env
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+
+# ---- Jupyter / Notebook ----
+.ipynb_checkpoints/
+
+# ---- Data / Artifacts ----
+models/
+*.csv
+*.json
+*.db
+
+# ---- IDE / OS ----
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# ---- Cache ----
+.cache/
